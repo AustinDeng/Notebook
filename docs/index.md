@@ -2,13 +2,13 @@
 home: true
 heroImage: /img/avatar.jpg
 heroText: My Notebook
-tagline: 凡心所向，素履以往；生如逆旅，一苇以航。
+tagline: 凡心所向 素履以往 生如逆旅 一苇以航
 # actionText: 立刻进入 →
 # actionLink: /web/
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
-  - title: 文章的撰写
+  - title: 文章撰写
     details: 每两周至少更新一篇文章，并完善数据统计[折线图、贡献图]以形成正反馈
     link: /web/ # 可选
     imgUrl: /img/web.png # 可选
