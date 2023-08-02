@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/avatar.jpg
+heroImage: /img/header_.png
 heroText: My Notebook
 tagline: 凡心所向 素履以往 生如逆旅 一苇以航
 # actionText: 立刻进入 →
