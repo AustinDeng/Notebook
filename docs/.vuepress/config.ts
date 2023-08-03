@@ -131,8 +131,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 				text: '计划',
 				link: 'schedule',
 				items: [
-					{ text: '学习计划', link: '/pages/study_schedule/' },
-					{ text: '日常计划', link: '/pages/life_schedule/' },
+					{ text: '学习计划', link: '/pages/61ef45/' },
+					{ text: '日常计划', link: '/pages/acd581/' },
 				]
 			},
 
@@ -140,10 +140,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 				text: '杂乱无章',
 				link: 'chaos',
 				items: [
-					{ text: '文章1', link: '/pages/chaos1/' },
-					{ text: '文章2', link: '/pages/chaos2/' },
-					{ text: '文章3', link: '/pages/chaos3/' },
-					{ text: '文章4', link: '/pages/chaos4/' },
+					{ text: '文章1', link: '/pages/b7338b/' },
+					{ text: '文章2', link: '/pages/0a2f50/' },
+					{ text: '文章3', link: '/pages/8769a4/' },
+					{ text: '文章4', link: '/pages/663889/' },
 				]
 			}
 
