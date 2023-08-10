@@ -145,6 +145,14 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 					{ text: '文章3', link: '/pages/8769a4/' },
 					{ text: '文章4', link: '/pages/663889/' },
 				]
+			},
+
+			{
+				text: '古往今来',
+				link: 'article',
+				items: [
+					{ text: '登高', link: '/pages/b78ad3/' },
+				]
 			}
 
 		],
