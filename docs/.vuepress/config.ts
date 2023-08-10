@@ -152,6 +152,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 				link: 'article',
 				items: [
 					{ text: '登高', link: '/pages/b78ad3/' },
+					{ text: '将进酒', link: '/pages/35073f/'},
+					{ text: '梦游天姥吟留别', link: '/pages/7293b0/'},
+					{ text: '蜀道难', link: '/pages/eb652f/'},
+					{ text: '侠客行', link: '/pages/e55866/'},
 				]
 			}
 
